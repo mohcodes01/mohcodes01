@@ -9,7 +9,7 @@
 
 <!-- SOCIAL BADGES -->
 <div align="center">
-  <!-- <a href="https://linkedin.com/in/larrymargerum01"> -->
+  <!-- <a href="https://linkedin.com/in/mohcodes01"> -->
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <!-- </a> -->
   <a href="mailto:larrymargerum1950@gmail.com">
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <a href="https://u8views.com/github/larrymargerum01"><img src="https://u8views.com/api/v1/github/profiles/301445167/views/day-week-month-total-count.svg"></a>
+  <a href="https://u8views.com/github/mohcodes01"><img src="https://u8views.com/api/v1/github/profiles/301445167/views/day-week-month-total-count.svg"></a>
 </div>
 
 <br/>
@@ -100,7 +100,7 @@ currently:
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=larrymargerum01&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=mohcodes01&theme=tokyonight)](https://git.io/streak-stats)
   
 </div>
 
@@ -108,9 +108,9 @@ currently:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=larrymargerum01&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=larrymargerum01&custom_title=Contribution%20Graph&theme=minimal&area=true&hide_border=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=larrymargerum01&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mohcodes01&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mohcodes01&custom_title=Contribution%20Graph&theme=minimal&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohcodes01&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
   </picture>
 </div>
 
